@@ -3,7 +3,7 @@ A responsive website developed in HTML and CSS featuring different places and ci
 Provide places to visite by category namely Heritage, Spritual, Natural, Wild life attractions.  
 Provide a form to book a tour with services such as hotal rooms, car rental.  
 # Installation
-Use the repository link : https://github.com/mbhavsar1994/Indian-Tourism.git to download the project in your system.  
+Use the repository link : https://github.com/krishna97p/Indian-Toursim.git to download the project in your system.  
 
 Code is editable with the pre installed softwares such as Visual Studio Code , SublimeText and Notpad++.  
 
